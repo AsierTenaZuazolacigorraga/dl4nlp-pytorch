@@ -22,36 +22,6 @@ Each lab is available in two versions:
 - **Keras version** (`*_with_Keras_sol.ipynb`) - Original implementations
 - **PyTorch version** (`*_with_Pytorch.ipynb`) - Reworked implementations
 
-## Viewing Notebooks
-
-**Note:** Most notebooks in this repository are not displayed correctly on GitHub (only Lab 1 Keras and Lab 2 PyTorch render properly). For the best viewing experience, please use one of the following options:
-
-- **[nbviewer](https://nbviewer.org/)** - Paste the notebook URL for proper rendering
-- **Clone the repository** and open locally with Jupyter:
-  ```bash
-  git clone https://github.com/YOUR_USERNAME/dl4nlp-pytorch.git
-  cd dl4nlp-pytorch
-  jupyter notebook
-  ```
-
-### Direct nbviewer links:
-
-**PyTorch Implementations:**
-- [Lab 1: Logistic Regression](https://nbviewer.org/github/YOUR_USERNAME/dl4nlp-pytorch/blob/main/1_Logistic_Regression_with_Pytorch.ipynb)
-- [Lab 2: MLP](https://nbviewer.org/github/YOUR_USERNAME/dl4nlp-pytorch/blob/main/2_MLP_with_Pytorch.ipynb)
-- [Lab 3: LSTMs](https://nbviewer.org/github/YOUR_USERNAME/dl4nlp-pytorch/blob/main/3_LSTMs_with_Pytorch.ipynb)
-- [Lab 4: Attention for NLI](https://nbviewer.org/github/YOUR_USERNAME/dl4nlp-pytorch/blob/main/4_Attention_for_NLI_with_Pytorch.ipynb)
-- [Lab 5: Transformers](https://nbviewer.org/github/YOUR_USERNAME/dl4nlp-pytorch/blob/main/5_Transformers_with_Pytorch.ipynb)
-
-**Original Keras Implementations:**
-- [Lab 1: Logistic Regression](https://nbviewer.org/github/YOUR_USERNAME/dl4nlp-pytorch/blob/main/1_Logistic_Regression_with_Keras_sol.ipynb)
-- [Lab 2: MLP](https://nbviewer.org/github/YOUR_USERNAME/dl4nlp-pytorch/blob/main/2_MLP_with_Keras_sol_.ipynb)
-- [Lab 3: LSTMs](https://nbviewer.org/github/YOUR_USERNAME/dl4nlp-pytorch/blob/main/3_LSTMs_with_Keras_sol.ipynb)
-- [Lab 4: Attention for NLI](https://nbviewer.org/github/YOUR_USERNAME/dl4nlp-pytorch/blob/main/4_Attention_for_NLI_with_Keras_sol.ipynb)
-- [Lab 5: Transformers](https://nbviewer.org/github/YOUR_USERNAME/dl4nlp-pytorch/blob/main/5_Transformers_with_Keras_sol.ipynb)
-
-*Note: Replace `YOUR_USERNAME` with your actual GitHub username in the links above.*
-
 ## Requirements
 
 For running the PyTorch implementations:
